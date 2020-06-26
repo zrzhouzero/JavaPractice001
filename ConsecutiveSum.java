@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class ContiguousSum {
+public class ConsecutiveSum {
 
     public static int birthday(List<Integer> s, int d, int m) {
         int result = 0;
